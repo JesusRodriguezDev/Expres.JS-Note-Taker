@@ -5,3 +5,4 @@
 
 ![Page Screenshot](./assets/images/note_app_screenshot.png)
 ## Live Page Link:
+[External Link to Live Page](https://note-taker-app-jes-rod.herokuapp.com/)
